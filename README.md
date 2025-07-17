@@ -10,9 +10,9 @@ I am a passionate data engineer with over 2 years of experience in building scal
 - **Data Engineering**: Data Warehousing, ETL/ELT, Data Modeling, Data Governance
 - **Cloud Platforms**: Azure (Synapse, DevOps, Data Factory), AWS (Glue, Athena)
 - **Programming**: Python, SQL (ANSI, T-SQL, PL/SQL)
-- **Libraries/Frameworks**: PySpark, Pandas, Spring Cloud, React, Bootstrap
+- **Libraries/Frameworks**: PySpark, Pandas 
 - **Databases**: Azure Hyperscale, Snowflake, MySQL, PostgreSQL, MongoDB
-- **Tools**: Azure Synapse, DBT, Airflow, Git, PowerShell, Databricks
+- **Tools**: Informatica, Azure Synapse, DBT, Airflow, Git, PowerShell, Databricks
  
 ## Projects 🌱
  
